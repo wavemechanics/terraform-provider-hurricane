@@ -12,7 +12,7 @@ $ git clone https://github.com/wavemechanics/terraform-provider-hurricane
 $ cd terraform-provider-hurricane
 $ make install
 ```
-`make install` will compile the binary and copy it into ~/.terraform.d/plugins with a versioned name.
+`make install` will compile the binary and copy it into `~/.terraform.d/plugins` with a versioned name.
 
 # Pre-provisioning records
 
